@@ -1,0 +1,56 @@
+* {
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+}
+
+body, html {
+    height: 100vh;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+
+    
+}
+
+.top {
+    width: 100%;
+    height: 500px;
+    background: #473798;
+}
+
+
+.logo {
+    background: url('../images/logo.png');
+    width: 505px;
+    height: 162px;
+}
+
+.logo_wrapper {
+    padding-top: 100px;
+    width: 505px;
+    margin: 0 auto;
+  
+}
+
+.descr {
+    width: 100%;
+    height: 200px;
+   
+}
+
+.top_panel {
+    width: 1200px;
+    height: 38px;
+   color: white;
+    line-height: 38px;
+    
+    
+    margin: 0 auto;
+}
+
+.wrapper {
+    width: 1200px;
+    margin: 0 auto;
+}
